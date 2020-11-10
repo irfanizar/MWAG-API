@@ -1,0 +1,7 @@
+[09-Jan-2020 01:35:06 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function sendForgetEmail(), 3 passed in /home/eticketi/public_html/JSMS/API/function.php on line 44 and exactly 4 expected in /home/eticketi/public_html/JSMS/API/function.php:54
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(44): sendForgetEmail('Store Person', 3, 'FZ1BrW11Vz')
+#1 /home/eticketi/public_html/JSMS/API/Auth/index.php(34): forgetPassword('m.aimanazani@gm...')
+#2 /home/eticketi/public_html/JSMS/API/Auth/index.php(20): mForgetPassword(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 54

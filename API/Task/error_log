@@ -1,0 +1,342 @@
+[28-Nov-2019 02:26:58 UTC] PHP Fatal error:  Cannot redeclare getAllTaskMember() (previously declared in /home/eticketi/public_html/JSMS/API/Task/index.php:24) in /home/eticketi/public_html/JSMS/API/function.php on line 336
+[28-Nov-2019 02:27:12 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Nov-2019 02:27:12 UTC] PHP Fatal error:  Cannot redeclare getAllTaskMember() (previously declared in /home/eticketi/public_html/JSMS/API/Task/index.php:24) in /home/eticketi/public_html/JSMS/API/function.php on line 336
+[28-Nov-2019 02:27:57 UTC] PHP Fatal error:  Cannot redeclare getAllTaskMember() (previously declared in /home/eticketi/public_html/JSMS/API/Task/index.php:24) in /home/eticketi/public_html/JSMS/API/function.php on line 336
+[28-Nov-2019 02:29:46 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Nov-2019 02:30:10 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Nov-2019 02:30:10 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 349
+[28-Nov-2019 02:30:42 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Nov-2019 02:30:42 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 349
+[28-Nov-2019 02:30:49 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Nov-2019 02:31:28 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Nov-2019 02:33:51 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Nov-2019 09:28:12 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Nov-2019 09:28:12 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 369
+[28-Nov-2019 09:29:14 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Nov-2019 09:30:28 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Nov-2019 02:27:15 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Nov-2019 02:27:23 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Nov-2019 02:27:29 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Nov-2019 02:27:53 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Nov-2019 02:27:53 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 369
+[29-Nov-2019 02:28:35 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Nov-2019 02:29:14 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Nov-2019 02:35:24 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 369
+[29-Nov-2019 02:35:48 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 369
+[29-Nov-2019 02:35:59 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 369
+[29-Nov-2019 02:36:08 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 369
+[29-Nov-2019 02:36:45 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 369
+[29-Nov-2019 02:36:52 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 369
+[29-Nov-2019 02:37:22 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 369
+[29-Nov-2019 02:37:35 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 369
+[29-Nov-2019 02:38:15 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 369
+[29-Nov-2019 02:38:27 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 369
+[29-Nov-2019 02:38:33 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 369
+[29-Nov-2019 02:38:51 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 369
+[29-Nov-2019 07:17:53 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Nov-2019 07:18:08 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Nov-2019 07:18:08 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 399
+[29-Nov-2019 07:18:53 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Nov-2019 07:19:28 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Nov-2019 07:23:46 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 03:35:24 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 03:36:13 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 03:36:19 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 03:36:31 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 03:38:21 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 04:33:51 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 04:34:06 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 04:53:39 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 451
+[02-Dec-2019 06:04:24 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 06:04:24 UTC] PHP Fatal error:  Cannot redeclare getAllSubtaskByTaskId() (previously declared in /home/eticketi/public_html/JSMS/API/Task/index.php:29) in /home/eticketi/public_html/JSMS/API/function.php on line 459
+[02-Dec-2019 06:05:29 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 06:05:29 UTC] PHP Fatal error:  Cannot redeclare getAllSubtaskByTaskId() (previously declared in /home/eticketi/public_html/JSMS/API/Task/index.php:29) in /home/eticketi/public_html/JSMS/API/function.php on line 459
+[02-Dec-2019 06:05:52 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 06:05:52 UTC] PHP Fatal error:  Cannot redeclare getAllSubtaskByTaskId() (previously declared in /home/eticketi/public_html/JSMS/API/Task/index.php:29) in /home/eticketi/public_html/JSMS/API/function.php on line 459
+[02-Dec-2019 06:06:02 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 06:06:02 UTC] PHP Fatal error:  Cannot redeclare getAllSubtaskByTaskId() (previously declared in /home/eticketi/public_html/JSMS/API/Task/index.php:29) in /home/eticketi/public_html/JSMS/API/function.php on line 459
+[02-Dec-2019 06:07:25 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 06:07:25 UTC] PHP Fatal error:  Cannot redeclare getAllSubtaskByTaskId() (previously declared in /home/eticketi/public_html/JSMS/API/Task/index.php:29) in /home/eticketi/public_html/JSMS/API/function.php on line 459
+[02-Dec-2019 06:07:28 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 06:07:28 UTC] PHP Fatal error:  Cannot redeclare getAllSubtaskByTaskId() (previously declared in /home/eticketi/public_html/JSMS/API/Task/index.php:29) in /home/eticketi/public_html/JSMS/API/function.php on line 459
+[02-Dec-2019 06:11:13 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 06:24:17 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 07:59:56 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 07:59:56 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 500
+[02-Dec-2019 08:00:25 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 08:00:25 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 500
+[02-Dec-2019 08:01:17 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 08:03:52 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 08:32:12 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 08:41:36 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 08:44:00 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 08:46:09 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 08:47:13 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 08:47:53 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 08:51:12 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 08:52:02 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 09:06:24 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 09:09:05 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 09:12:54 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 09:16:52 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 496
+[02-Dec-2019 09:17:01 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 496
+[02-Dec-2019 09:17:23 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 09:17:23 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 496
+[02-Dec-2019 09:18:10 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 496
+[02-Dec-2019 09:23:12 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 496
+[02-Dec-2019 09:33:10 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 09:33:10 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 517
+[02-Dec-2019 09:34:19 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 09:36:05 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 09:36:05 UTC] PHP Fatal error:  Unsupported operand types in /home/eticketi/public_html/JSMS/API/function.php on line 521
+[02-Dec-2019 09:36:46 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 09:38:15 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 09:39:36 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 09:40:47 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 09:43:03 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 09:43:59 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Dec-2019 09:44:28 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[03-Dec-2019 00:58:38 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 369
+[03-Dec-2019 01:02:37 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 454
+[03-Dec-2019 01:22:45 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 480
+[03-Dec-2019 02:28:41 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 404
+[03-Dec-2019 02:30:14 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 404
+[03-Dec-2019 02:54:03 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 404
+[03-Dec-2019 02:54:39 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 404
+[03-Dec-2019 03:19:10 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 435
+[03-Dec-2019 06:33:47 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[03-Dec-2019 06:33:47 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 599
+[03-Dec-2019 06:34:35 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[03-Dec-2019 06:36:23 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[03-Dec-2019 06:37:04 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[03-Dec-2019 06:54:13 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/eticketi/public_html/JSMS/API/function.php on line 534
+[03-Dec-2019 09:37:13 UTC] PHP Fatal error:  Call to a member function set_charset() on null in /home/eticketi/public_html/JSMS/API/config.php on line 14
+[03-Dec-2019 09:59:29 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[05-Dec-2019 07:00:38 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Column 'UpdateBy' cannot be null' in /home/eticketi/public_html/JSMS/API/function.php:708
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(708): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Task/index.php(39): updateTaskCommentLog('12', 'Yo', NULL, 23)
+#2 /home/eticketi/public_html/JSMS/API/Task/index.php(21): createNewComment(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 708
+[14-Jan-2020 03:30:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getDashboardTaskInfo() in /home/eticketi/public_html/JSMS/API/Task/index.php:38
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/Task/index.php(25): dashboardTask(Array, Array)
+#1 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/Task/index.php on line 38
+[14-Jan-2020 03:30:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getDashboardTaskInfo() in /home/eticketi/public_html/JSMS/API/Task/index.php:38
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/Task/index.php(25): dashboardTask(Array, Array)
+#1 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/Task/index.php on line 38
+[14-Jan-2020 03:30:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getDashboardTaskInfo() in /home/eticketi/public_html/JSMS/API/Task/index.php:38
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/Task/index.php(25): dashboardTask(Array, Array)
+#1 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/Task/index.php on line 38
+[14-Jan-2020 03:30:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getDashboardTaskInfo() in /home/eticketi/public_html/JSMS/API/Task/index.php:38
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/Task/index.php(25): dashboardTask(Array, Array)
+#1 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/Task/index.php on line 38
+[14-Jan-2020 03:30:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getDashboardTaskInfo() in /home/eticketi/public_html/JSMS/API/Task/index.php:38
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/Task/index.php(25): dashboardTask(Array, Array)
+#1 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/Task/index.php on line 38
+[14-Jan-2020 04:02:36 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/eticketi/public_html/JSMS/API/function.php:609
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/Task/index.php(38): getDashboardTaskInfo(6)
+#1 /home/eticketi/public_html/JSMS/API/Task/index.php(25): dashboardTask(Array, Array)
+#2 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 609
+[14-Jan-2020 04:49:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 614
+[14-Jan-2020 04:49:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 621
+[14-Jan-2020 04:49:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 614
+[14-Jan-2020 04:49:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 621
+[14-Jan-2020 04:51:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 616
+[14-Jan-2020 04:51:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 625
+[14-Jan-2020 04:52:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 616
+[14-Jan-2020 04:52:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 625
+[14-Jan-2020 04:52:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 616
+[14-Jan-2020 04:52:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 625
+[14-Jan-2020 04:52:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 625
+[14-Jan-2020 04:53:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 625
+[14-Jan-2020 04:54:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 625
+[14-Jan-2020 06:21:05 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getDashboardTaskInfo(), 1 passed in /home/eticketi/public_html/JSMS/API/Task/index.php on line 38 and exactly 2 expected in /home/eticketi/public_html/JSMS/API/function.php:584
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/Task/index.php(38): getDashboardTaskInfo(6)
+#1 /home/eticketi/public_html/JSMS/API/Task/index.php(25): dashboardTask(Array, Array)
+#2 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 584
+[15-Jan-2020 02:06:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 02:06:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 02:33:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 02:33:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 02:34:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 02:34:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 02:40:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 02:40:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 02:44:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 02:44:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 02:46:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 02:46:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 02:55:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 02:55:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 02:59:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 02:59:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:01:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:01:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:03:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:03:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:06:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:06:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:08:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:08:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:09:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:09:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:10:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:10:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:12:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:12:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:13:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:13:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:15:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:15:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:20:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:20:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:21:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:21:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:21:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:21:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:22:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:22:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:25:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:25:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:25:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:25:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:26:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:26:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:29:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:29:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:30:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:30:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:31:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:31:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:32:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:32:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:35:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:35:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:36:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:36:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:39:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:39:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:39:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:39:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:40:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:40:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:40:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:40:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:40:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:40:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:41:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:41:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:41:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:41:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:41:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:41:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:42:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:42:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:42:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:42:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:43:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:43:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:43:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:43:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:43:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:43:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:45:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:45:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:47:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:47:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:48:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:48:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:48:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:48:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:49:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:49:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:50:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:50:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:51:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:51:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:51:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:51:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:53:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:53:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:53:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:53:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 03:57:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 03:57:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:00:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 04:00:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:01:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 04:01:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:02:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 04:02:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:02:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 04:02:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:03:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 04:03:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:03:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 04:03:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:03:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 04:03:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:05:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 04:05:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:05:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 04:05:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:05:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 04:05:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:07:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:07:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:09:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:09:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:09:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:09:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:10:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:10:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:11:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:11:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:11:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:12:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:12:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:12:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:14:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:14:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:17:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:17:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:17:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 04:20:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 07:02:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 07:02:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 07:02:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 07:02:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 07:19:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 07:19:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 07:19:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 07:19:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 07:19:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 07:19:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 08:28:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 08:28:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 08:28:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 08:28:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 08:30:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 08:30:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 08:30:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 09:00:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 09:13:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 09:14:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 647
+[15-Jan-2020 09:21:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
+[15-Jan-2020 09:26:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/eticketi/public_html/JSMS/API/function.php on line 656
