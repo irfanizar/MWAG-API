@@ -1,0 +1,26 @@
+[05-Jan-2020 08:25:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'LorryDriverName' cannot be null in /home/eticketi/public_html/JSMS/API/function.php:1283
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(1283): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/function.php(1307): addLorryNumber(Array, 3, Object(mysqli))
+#2 /home/eticketi/public_html/JSMS/API/DO/index.php(67): updateInDraftDO(NULL, Array, Array, 3, 16)
+#3 /home/eticketi/public_html/JSMS/API/DO/index.php(19): method3(Array, Array)
+#4 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 1283
+[05-Jan-2020 08:33:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/eticketi/public_html/JSMS/API/function.php:1320
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/DO/index.php(67): updateInDraftDO(Array, NULL, Array, 3, 16)
+#1 /home/eticketi/public_html/JSMS/API/DO/index.php(19): method3(Array, Array)
+#2 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 1320
+[05-Jan-2020 08:38:04 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/eticketi/public_html/JSMS/API/function.php on line 1324
+[05-Jan-2020 08:38:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No data supplied for parameters in prepared statement in /home/eticketi/public_html/JSMS/API/function.php:1330
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(1330): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/DO/index.php(67): updateInDraftDO(NULL, NULL, Array, 3, 16)
+#2 /home/eticketi/public_html/JSMS/API/DO/index.php(19): method3(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 1330
+[05-Jan-2020 08:42:35 UTC] PHP Warning:  mysqli_stmt::execute(): Couldn't fetch mysqli_stmt in /home/eticketi/public_html/JSMS/API/function.php on line 1336
+[05-Jan-2020 08:43:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/eticketi/public_html/JSMS/API/function.php on line 1341
+[05-Jan-2020 08:45:17 UTC] PHP Warning:  mysqli_stmt::execute(): Couldn't fetch mysqli_stmt in /home/eticketi/public_html/JSMS/API/function.php on line 1336
+[05-Jan-2020 08:46:02 UTC] PHP Warning:  mysqli_stmt::execute(): Couldn't fetch mysqli_stmt in /home/eticketi/public_html/JSMS/API/function.php on line 1336

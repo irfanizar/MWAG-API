@@ -1,0 +1,400 @@
+[06-Dec-2019 02:59:06 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Unknown column 'Approval1' in 'field list'' in /home/eticketi/public_html/JSMS/API/function.php:818
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(818): mysqli->prepare('INSERT INTO Req...')
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(37): createNewRequest(6, '32', 8, Array)
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(14): makeNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 818
+[06-Dec-2019 03:09:40 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Column 'Quantity' cannot be null' in /home/eticketi/public_html/JSMS/API/function.php:832
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(832): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(37): createNewRequest(6, '32', 8, Array)
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(14): makeNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 832
+[06-Dec-2019 03:10:33 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Incorrect decimal value: '' for column 'EstimationCost' at row 1' in /home/eticketi/public_html/JSMS/API/function.php:832
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(832): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(37): createNewRequest(6, '32', 8, Array)
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(14): makeNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 832
+[06-Dec-2019 03:14:05 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Incorrect decimal value: '' for column 'EstimationCost' at row 1' in /home/eticketi/public_html/JSMS/API/function.php:832
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(832): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(37): createNewRequest(6, '32', 8, Array)
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(14): makeNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 832
+[06-Dec-2019 03:16:51 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/eticketi/public_html/JSMS/API/function.php on line 824
+[06-Dec-2019 03:21:38 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home/eticketi/public_html/JSMS/API/function.php on line 837
+[06-Dec-2019 03:22:28 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home/eticketi/public_html/JSMS/API/function.php on line 837
+[06-Dec-2019 03:23:19 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/eticketi/public_html/JSMS/API/function.php on line 825
+[06-Dec-2019 03:24:01 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/eticketi/public_html/JSMS/API/function.php on line 825
+[06-Dec-2019 03:24:24 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/eticketi/public_html/JSMS/API/function.php on line 825
+[06-Dec-2019 03:25:34 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/eticketi/public_html/JSMS/API/function.php on line 825
+[06-Dec-2019 03:26:01 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/eticketi/public_html/JSMS/API/function.php on line 825
+[06-Dec-2019 03:26:35 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/eticketi/public_html/JSMS/API/function.php on line 825
+[06-Dec-2019 03:27:57 UTC] PHP Fatal error:  Call to a member function close() on null in /home/eticketi/public_html/JSMS/API/function.php on line 837
+[06-Dec-2019 03:28:44 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/eticketi/public_html/JSMS/API/function.php on line 825
+[06-Dec-2019 03:31:12 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/eticketi/public_html/JSMS/API/function.php on line 825
+[06-Dec-2019 03:32:52 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/eticketi/public_html/JSMS/API/function.php on line 825
+[06-Dec-2019 03:33:14 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/eticketi/public_html/JSMS/API/function.php on line 825
+[06-Dec-2019 03:33:54 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1' in /home/eticketi/public_html/JSMS/API/function.php:823
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(823): mysqli->prepare('INSERT INTO Req...')
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(37): createNewRequest(6, '32', 8, Array)
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(14): makeNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 823
+[06-Dec-2019 03:38:38 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Field 'Quantity' doesn't have a default value' in /home/eticketi/public_html/JSMS/API/function.php:834
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(834): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(37): createNewRequest(6, '32', 8, Array)
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(14): makeNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 834
+[06-Dec-2019 03:41:11 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Incorrect decimal value: '' for column 'EstimationCost' at row 1' in /home/eticketi/public_html/JSMS/API/function.php:834
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(834): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(37): createNewRequest(6, '32', 8, Array)
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(14): makeNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 834
+[06-Dec-2019 04:31:55 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/eticketi/public_html/JSMS/API/function.php on line 859
+[06-Dec-2019 04:31:55 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'No data supplied for parameters in prepared statement' in /home/eticketi/public_html/JSMS/API/function.php:860
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(860): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(63): getAllMainRequest(6, 10)
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(16): getAllRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 860
+[06-Dec-2019 04:32:10 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/eticketi/public_html/JSMS/API/function.php on line 859
+[06-Dec-2019 04:32:10 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'No data supplied for parameters in prepared statement' in /home/eticketi/public_html/JSMS/API/function.php:860
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(860): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(63): getAllMainRequest(6, 10)
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(16): getAllRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 860
+[06-Dec-2019 04:32:29 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/eticketi/public_html/JSMS/API/function.php on line 859
+[06-Dec-2019 04:32:29 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'No data supplied for parameters in prepared statement' in /home/eticketi/public_html/JSMS/API/function.php:860
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(860): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(63): getAllMainRequest(6, 10)
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(16): getAllRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 860
+[06-Dec-2019 04:33:10 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/eticketi/public_html/JSMS/API/function.php on line 859
+[06-Dec-2019 04:33:10 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'No data supplied for parameters in prepared statement' in /home/eticketi/public_html/JSMS/API/function.php:860
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(860): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(63): getAllMainRequest(6, 10)
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(16): getAllRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 860
+[06-Dec-2019 04:33:14 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/eticketi/public_html/JSMS/API/function.php on line 859
+[06-Dec-2019 04:33:14 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'No data supplied for parameters in prepared statement' in /home/eticketi/public_html/JSMS/API/function.php:860
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(860): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(63): getAllMainRequest(6, 10)
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(16): getAllRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 860
+[06-Dec-2019 04:33:44 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/eticketi/public_html/JSMS/API/function.php on line 859
+[06-Dec-2019 04:33:44 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'No data supplied for parameters in prepared statement' in /home/eticketi/public_html/JSMS/API/function.php:860
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(860): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(63): getAllMainRequest(6, 10)
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(16): getAllRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 860
+[06-Dec-2019 04:34:11 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/eticketi/public_html/JSMS/API/function.php on line 859
+[06-Dec-2019 04:34:11 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'No data supplied for parameters in prepared statement' in /home/eticketi/public_html/JSMS/API/function.php:860
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(860): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(63): getAllMainRequest(6, 10)
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(16): getAllRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 860
+[06-Dec-2019 04:34:27 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/eticketi/public_html/JSMS/API/function.php on line 859
+[06-Dec-2019 04:34:27 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'No data supplied for parameters in prepared statement' in /home/eticketi/public_html/JSMS/API/function.php:860
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(860): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(63): getAllMainRequest(6, 10)
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(16): getAllRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 860
+[08-Dec-2019 07:46:00 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[08-Dec-2019 07:47:17 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[08-Dec-2019 07:49:30 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[08-Dec-2019 07:50:24 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[08-Dec-2019 07:50:48 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 01:15:52 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 01:16:26 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 01:16:43 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 01:16:57 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 01:17:08 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 01:17:41 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 01:18:48 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 01:18:55 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 01:19:22 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 01:19:40 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 01:19:45 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 01:19:45 UTC] PHP Fatal error:  Call to undefined function approveRequest() in /home/eticketi/public_html/JSMS/API/Request/index.php on line 43
+[09-Dec-2019 01:19:50 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 01:19:50 UTC] PHP Fatal error:  Call to undefined function approveRequest() in /home/eticketi/public_html/JSMS/API/Request/index.php on line 43
+[09-Dec-2019 01:20:06 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 01:20:23 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 01:20:23 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Approver1' = ?' at line 1' in /home/eticketi/public_html/JSMS/API/function.php:971
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(971): mysqli->prepare('UPDATE Request ...')
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(43): approveRequest('35', '6', '33')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 971
+[09-Dec-2019 01:20:52 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 01:20:52 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Approver1Status' = ?' at line 1' in /home/eticketi/public_html/JSMS/API/function.php:971
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(971): mysqli->prepare('UPDATE Request ...')
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(43): approveRequest('35', '6', '33')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 971
+[09-Dec-2019 01:21:10 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 01:21:10 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= ?' at line 1' in /home/eticketi/public_html/JSMS/API/function.php:971
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(971): mysqli->prepare('UPDATE Request ...')
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(43): approveRequest('35', '6', '33')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 971
+[09-Dec-2019 01:21:41 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 01:22:08 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 01:22:08 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= ?' at line 1' in /home/eticketi/public_html/JSMS/API/function.php:971
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(971): mysqli->prepare('UPDATE Request ...')
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(43): approveRequest('35', '6', '33')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 971
+[09-Dec-2019 01:22:19 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 01:22:19 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Approver1Status' . = ?' at line 1' in /home/eticketi/public_html/JSMS/API/function.php:971
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(971): mysqli->prepare('UPDATE Request ...')
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(43): approveRequest('35', '6', '33')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 971
+[09-Dec-2019 01:23:26 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 01:23:49 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 03:19:04 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Incorrect integer value: '' for column 'Approver1Status' at row 1' in /home/eticketi/public_html/JSMS/API/function.php:978
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(978): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(43): approveRequest('35', 6, '')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 978
+[09-Dec-2019 03:19:38 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 03:20:00 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Incorrect integer value: '' for column 'Approver1Status' at row 1' in /home/eticketi/public_html/JSMS/API/function.php:978
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(978): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(43): approveRequest('35', 6, '')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 978
+[09-Dec-2019 03:22:15 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Incorrect integer value: '' for column 'Approver1Status' at row 1' in /home/eticketi/public_html/JSMS/API/function.php:978
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(978): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(43): approveRequest('35', 6, '')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 978
+[09-Dec-2019 03:22:30 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Incorrect integer value: '' for column 'Approver1Status' at row 1' in /home/eticketi/public_html/JSMS/API/function.php:978
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(978): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(43): approveRequest('35', 6, '')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 978
+[09-Dec-2019 03:42:42 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 03:42:42 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Approver2Remark = ?, Approver2Date = NOW()' at line 1' in /home/eticketi/public_html/JSMS/API/function.php:976
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(976): mysqli->prepare('UPDATE Request ...')
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(45): approveRequest('35', '4', '33', 'eeee')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 976
+[09-Dec-2019 03:44:59 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 03:44:59 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Approver2Remark = ?, Approver2Date = ?' at line 1' in /home/eticketi/public_html/JSMS/API/function.php:977
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(977): mysqli->prepare('UPDATE Request ...')
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(45): approveRequest('35', '4', '33', 'eeee')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 977
+[09-Dec-2019 03:45:25 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 03:45:25 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Approver2Remark = ?' at line 1' in /home/eticketi/public_html/JSMS/API/function.php:976
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(976): mysqli->prepare('UPDATE Request ...')
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(45): approveRequest('35', '4', '33', 'eeee')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 976
+[09-Dec-2019 03:45:41 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 03:46:16 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 03:49:05 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[09-Dec-2019 05:04:18 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Unknown column 'RequesId' in 'where clause'' in /home/eticketi/public_html/JSMS/API/function.php:979
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(979): mysqli->prepare('UPDATE Request ...')
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(45): approveRequest('36', 6, '33', 'Approved')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 979
+[09-Dec-2019 06:00:48 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Incorrect integer value: 'Test2' for column 'Approver2Remark' at row 1' in /home/eticketi/public_html/JSMS/API/function.php:981
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(981): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(45): approveRequest('35', 6, '33', 'Test2')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 981
+[09-Dec-2019 06:02:30 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Incorrect integer value: 'e' for column 'Approver2Remark' at row 1' in /home/eticketi/public_html/JSMS/API/function.php:981
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(981): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(45): approveRequest('35', 6, '33', 'e')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 981
+[09-Dec-2019 06:04:22 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Incorrect integer value: 'e' for column 'Approver2Remark' at row 1' in /home/eticketi/public_html/JSMS/API/function.php:981
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(981): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(45): approveRequest('35', 6, '33', 'e')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 981
+[09-Dec-2019 06:19:34 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Incorrect integer value: 'OK' for column 'Approver2Remark' at row 1' in /home/eticketi/public_html/JSMS/API/function.php:981
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(981): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(45): approveRequest('38', 4, '33', 'OK')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 981
+[09-Dec-2019 06:19:53 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Incorrect integer value: 'ok' for column 'Approver2Remark' at row 1' in /home/eticketi/public_html/JSMS/API/function.php:981
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(981): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(45): approveRequest('38', 4, '33', 'ok')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 981
+[09-Dec-2019 06:20:10 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Incorrect integer value: 'ok' for column 'Approver2Remark' at row 1' in /home/eticketi/public_html/JSMS/API/function.php:981
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(981): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(45): approveRequest('37', 4, '33', 'ok')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 981
+[09-Dec-2019 06:21:06 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Incorrect integer value: 'eeee' for column 'Approver2Remark' at row 1' in /home/eticketi/public_html/JSMS/API/function.php:981
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(981): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(45): approveRequest('36', 4, '33', 'eeee')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 981
+[09-Dec-2019 06:21:19 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Incorrect integer value: 'eee' for column 'Approver2Remark' at row 1' in /home/eticketi/public_html/JSMS/API/function.php:981
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(981): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(45): approveRequest('36', 4, '33', 'eee')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 981
+[09-Dec-2019 06:27:29 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Can't update table 'Request' in stored function/trigger because it is already used by statement which invoked this stored function/trigger.' in /home/eticketi/public_html/JSMS/API/function.php:981
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(981): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(45): approveRequest('37', 4, '33', '33')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 981
+[09-Dec-2019 06:27:58 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Can't update table 'Request' in stored function/trigger because it is already used by statement which invoked this stored function/trigger.' in /home/eticketi/public_html/JSMS/API/function.php:981
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(981): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(45): approveRequest('37', 4, '33', '33')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 981
+[09-Dec-2019 06:28:23 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Incorrect integer value: 'eee' for column 'Approver2Remark' at row 1' in /home/eticketi/public_html/JSMS/API/function.php:981
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(981): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(45): approveRequest('37', 4, '33', 'eee')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 981
+[09-Dec-2019 06:28:45 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Incorrect integer value: 'ee' for column 'Approver2Remark' at row 1' in /home/eticketi/public_html/JSMS/API/function.php:981
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(981): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(45): approveRequest('37', 4, '33', 'ee')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 981
+[09-Dec-2019 06:42:58 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Can't update table 'Request' in stored function/trigger because it is already used by statement which invoked this stored function/trigger.' in /home/eticketi/public_html/JSMS/API/function.php:984
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(984): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(45): approveRequest('39', 3, '33', '3')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 984
+[09-Dec-2019 06:44:33 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Can't update table 'Request' in stored function/trigger because it is already used by statement which invoked this stored function/trigger.' in /home/eticketi/public_html/JSMS/API/function.php:984
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(984): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(45): approveRequest('39', 3, '33', '3')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 984
+[09-Dec-2019 06:44:47 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Can't update table 'Request' in stored function/trigger because it is already used by statement which invoked this stored function/trigger.' in /home/eticketi/public_html/JSMS/API/function.php:984
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(984): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(45): approveRequest('39', 3, '33', '3')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 984
+[09-Dec-2019 06:45:41 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Can't update table 'Request' in stored function/trigger because it is already used by statement which invoked this stored function/trigger.' in /home/eticketi/public_html/JSMS/API/function.php:984
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(984): mysqli_stmt->execute()
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(45): approveRequest('39', 3, '33', '33')
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(22): approveNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 984
+[15-Jan-2020 09:28:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'a.Approval3' in 'field list' in /home/eticketi/public_html/JSMS/API/function.php:1210
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(1210): mysqli->prepare('SELECT a.Approv...')
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(120): createNewRequest(6, '32', 8, Array)
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(14): makeNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 1210
+[15-Jan-2020 09:29:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'a.Approval3' in 'field list' in /home/eticketi/public_html/JSMS/API/function.php:1210
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(1210): mysqli->prepare('SELECT a.Approv...')
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(120): createNewRequest(6, '32', 8, Array)
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(14): makeNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 1210
+[15-Jan-2020 09:29:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'a.Approval3' in 'field list' in /home/eticketi/public_html/JSMS/API/function.php:1210
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(1210): mysqli->prepare('SELECT a.Approv...')
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(120): createNewRequest(6, '32', 8, Array)
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(14): makeNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 1210
+[15-Jan-2020 09:30:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'a.Approval3' in 'field list' in /home/eticketi/public_html/JSMS/API/function.php:1210
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(1210): mysqli->prepare('SELECT a.Approv...')
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(120): createNewRequest(6, '32', 8, Array)
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(14): makeNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 1210
+[15-Jan-2020 09:31:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'a.Approval3' in 'field list' in /home/eticketi/public_html/JSMS/API/function.php:1210
+Stack trace:
+#0 /home/eticketi/public_html/JSMS/API/function.php(1210): mysqli->prepare('SELECT a.Approv...')
+#1 /home/eticketi/public_html/JSMS/API/Request/index.php(120): createNewRequest(6, '32', 8, Array)
+#2 /home/eticketi/public_html/JSMS/API/Request/index.php(14): makeNewRequest(Array, Array)
+#3 {main}
+  thrown in /home/eticketi/public_html/JSMS/API/function.php on line 1210
